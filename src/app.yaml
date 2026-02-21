@@ -1,0 +1,4 @@
+domain_path: C:\hdl_projects\zuboard_throughput\wksp\platform\export\platform\sw\standalone_psu_cortexa53_0
+app_src_dir: C:\AMDDesignTools\2025.2\Vitis\data\embeddedsw\lib\sw_apps\lwip_udp_perf_server
+template: lwip_udp_perf_server
+lang: c
